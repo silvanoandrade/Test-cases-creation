@@ -73,11 +73,8 @@ Project Structure
 │   Definition of valid and invalid input groups
 │
 ├── Test Cases
-│   Test scenarios designed based on the equivalence classes
-│
-└── README.md
+│── Test scenarios designed based on the equivalence classes
 
-    Project documentation
 QA Process Applied
 
 Analysis of the form requirements.
